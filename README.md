@@ -1,4 +1,4 @@
-# 🤖 AI Blog Engine 2.0 (aiblog2)
+# 🤖 AI Blog Engine 1.0
 
 [![PayPal Donate Button](https://hungaryvfr.hu/images/paypal-donate-button-2.png)](https://www.paypal.com/ncp/payment/KUM7TUZW4CNPN)
 
@@ -100,3 +100,4 @@ If you find this project useful and want to support its development, consider a 
 ## 📄 License
 
 This project is licensed under the MIT License. Developed with ❤️ by [darealgege](https://github.com/darealgege).
+
