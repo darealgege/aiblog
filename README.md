@@ -4,6 +4,8 @@
 
 **AI Blog Engine** is a state-of-the-art, self-hosted PHP automation platform designed for building high-authority niche sites. It doesn't just "generate text"—it **researches, architects, and maintains** a semantic niche ecosystem using advanced multi-agent orchestration.
 
+🌐 **Live Demo**: [https://hungaryvfr.hu/aiblog/](https://hungaryvfr.hu/aiblog/) – See the engine in action!
+
 ---
 
 ## 🧠 Smart AI Model Strategy
