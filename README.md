@@ -296,10 +296,7 @@ The engine supports two background execution modes, automatically selected based
 If `exec()` is available but you prefer cron-based scheduling (e.g., for shared hosting stability), you can manually switch modes in the Admin Settings panel.
 
 ### Daemon Mode (Recommended)
-```bash
-# The admin panel handles this automatically via Start button
-php /path/to/project/cron/scheduler_daemon.php &
-```
+**No cron required!** The system handles everything automatically. Simply click the **Start** button in the admin panel to launch the background daemon – no command-line access needed.
 
 ### Cron Mode (Fallback)
 If your server doesn't support `exec()`, the admin panel displays the required cron command:
